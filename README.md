@@ -3,3 +3,6 @@
 
 可以直接創建新帳號，直接設定就能註冊+登入
 http://englishagentalb-321745067.ap-southeast-2.elb.amazonaws.com/
+
+demo
+https://youtu.be/zZVaSJK1U6k
